@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Francesco, a 24-year-old developer from 🇮🇹 Italy — welcome to my GitHub!<br><br>
+👋 Hey there! I'm Francesco, a 24-year-old developer from Italy — welcome to my GitHub!<br><br>
 🔭 I’m currently working on a roguelike pinball game built with Godot.<br>
 🤝 I’m open to collaborating on Godot projects, especially those that explore unique mechanics.<br>
 🧠 Always looking to learn something new in each and every area: software, arts, design, I'm in!<br>
