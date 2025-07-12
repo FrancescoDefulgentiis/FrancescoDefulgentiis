@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hey there! I'm Francesco, a 24-year-old developer from 🇮🇹 Italy — welcome to my GitHub!<br><br>🔭 I’m currently working on a roguelike pinball game built with Godot.<br>🤝 I’m open to collaborating on Godot projects, especially those that explore unique mechanics.<br>🧠 Always looking to learn something new in each and every area: software, arts, design, i'm in!<br>🌱 I’m currently learning Godot, DevOps techniques, and exploring tools to improve my workflow as a developer.<br>🎲 Fun fact: I’m a huge fan of role-playing — both tabletop and live-action.
+👋 Hey there! I'm Francesco, a 24-year-old developer from 🇮🇹 Italy — welcome to my GitHub!<br><br>
+🔭 I’m currently working on a roguelike pinball game built with Godot.<br>
+🤝 I’m open to collaborating on Godot projects, especially those that explore unique mechanics.<br>
+🧠 Always looking to learn something new in each and every area: software, arts, design, I'm in!<br>
+🌱 I’m currently learning Godot, DevOps techniques, and exploring tools to improve my workflow as a developer.<br>
+🧪 I have experience in data science and a growing interest in machine learning, especially where it intersects with creativity and interactivity.<br>
+🎲 Fun fact: I’m a huge fan of role-playing — both tabletop and live-action.
 
 
 ## 🌐 Socials:
